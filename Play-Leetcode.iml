@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/001-two-sum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/002-Add-Two-Numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/003-Longest-Substring-Without-Repeating-Characters/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/007-ReverseInteger/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/011- ContainerWithMostWater/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/012-Integer to Roman/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/014-LongestCommonPrefix/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/015-3Sum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/016-3Sum-Closest/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/017-Letter Combinations of a Phone Number/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/019-Remove Nth Node From End of List/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/020-Valid Parentheses/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/021-Merge Two Sorted Lists/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/022-Generate Parentheses/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/023-Merge k Sorted Lists/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/023-Swap Nodes in Pairs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/025-Reverse Nodes in k-Group/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/026-Remove Duplicates from Sorted Array/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/027-Remove Element/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/028-Implement strStr()/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/039-Combination Sum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/040-Combination Sum II/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/046-Permutations/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/048-Rotate Image/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/049-Group Anagrams/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/051-N-Queens/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/054-Spiral Matrix/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/056-Merge Intervals/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/059-Spiral Matrix/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/059-Spiral MatrixII/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/061-Rotate List/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/063-Unique Paths II/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/064-Minimum Path Sum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/066-Plus One/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/073-Set Matrix Zeroes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/077-Combinations/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/079-Word Search/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/080-Remove Duplicates from Sorted Array II/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/086-Partition List/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/088-Merge Sorted Array/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
