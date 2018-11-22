@@ -44,6 +44,8 @@
       <sourceFolder url="file://$MODULE_DIR$/080-Remove Duplicates from Sorted Array II/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/086-Partition List/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/088-Merge Sorted Array/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/092-Reverse Linked List II/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/094-Binary Tree Inorder Traversal/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
