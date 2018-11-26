@@ -46,6 +46,8 @@
       <sourceFolder url="file://$MODULE_DIR$/088-Merge Sorted Array/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/092-Reverse Linked List II/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/094-Binary Tree Inorder Traversal/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/112-Path Sum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/113- Path Sum II/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
