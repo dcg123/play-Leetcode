@@ -48,6 +48,10 @@
       <sourceFolder url="file://$MODULE_DIR$/094-Binary Tree Inorder Traversal/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/112-Path Sum/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/113- Path Sum II/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/120-Triangle/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/121-Best Time to Buy and Sell Stock/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/122-Best Time to Buy and Sell Stock II/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/123-Best Time to Buy and Sell Stock III/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
