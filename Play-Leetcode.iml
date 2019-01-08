@@ -52,6 +52,9 @@
       <sourceFolder url="file://$MODULE_DIR$/121-Best Time to Buy and Sell Stock/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/122-Best Time to Buy and Sell Stock II/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/123-Best Time to Buy and Sell Stock III/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/125-Valid Palindrome/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/127- Word Ladder/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/129-Sum Root to Leaf Numbers/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
