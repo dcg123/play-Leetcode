@@ -55,6 +55,9 @@
       <sourceFolder url="file://$MODULE_DIR$/125-Valid Palindrome/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/127- Word Ladder/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/129-Sum Root to Leaf Numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/136-Single Number/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/138-Copy List with Random Pointer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/141-Linked List Cycle/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
